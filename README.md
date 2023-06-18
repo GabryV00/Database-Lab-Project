@@ -5,8 +5,8 @@ The aim of the project is the creation of a database for the management of a who
 In particular, we want to keep track of the orders placed by the various departments with suppliers and with the various customers at the market. You also want to keep track of suppliers, people belonging to various departments and customers.
 ## Architecture
 
-Inside the Python folder we find the code for generating the .sql file for the initial population of the database.
+* Inside the *Python* folder we find the code for generating the .sql file for the initial population of the database.
 
-Inside the R folder we find the code for generating the graphs.
+* Inside the *R* folder we find the code for generating the graphs.
 
-Inside the SQL folder we find a file for defining tables, triggers and indexes, and a file for querying the most frequent operations.
+* Inside the *SQL* folder we find a file for defining tables, triggers and indexes, and a file for querying the most frequent operations.
